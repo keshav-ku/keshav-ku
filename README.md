@@ -1,6 +1,5 @@
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
-  👋 Hi, I’m @keshav-ku
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+👋 こんにちは, @keshav-ku です！
+
 
 <!---
 keshav-ku/keshav-ku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
