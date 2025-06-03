@@ -1,7 +1,17 @@
-👋 こんにちは, @keshav-ku です！
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-<!---
-keshav-ku/keshav-ku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "ケーシャブ"
+        self.role = "ソフトウェアエンジニア"
+        self.team = "デザシス部"
+
+    def say_hi(self):
+        print("こんにちは 👋")
+
+
+me = SoftwareEngineer()
+me.say_hi()
